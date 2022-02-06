@@ -1,4 +1,7 @@
 # Learn the fundamentals of a good developer mindset in 15 minutes #
+
+![alt text](123.jpg)
+
          issues talked about by developers
 
 There are many small factors that slowly and gradually harm a developer’s projects. They are not immediately destructive. Most of them only do long-term damage. 
